@@ -1,0 +1,15 @@
+*********** Order List (2021_12_29) ***********
+Order ID:   1  StaffName:Hello Java                      Total:$25.00 
+Order ID:   2  StaffName:Hello Java                      Total:$11.00 
+Order ID:   3  StaffName:Hello Java                      Total:$37.00 
+Order ID:   4  StaffName:Hello Java                      Total:$11.00 
+Order ID:   5  StaffName:Hello Java                      Total:$12.95 
+Order ID:   6  StaffName:Tesuton Testole                 Total:$16.00 
+Order ID:   7  StaffName:Tesuton Testole                 Total:$10.00 
+Order ID:   8  StaffName:Tesuton Testole                 Total:$9.45  
+Order ID:   9  StaffName:Tesuton Testole                 Total:$3.50  
+Order ID:  10  StaffName:David Gatta                     Total:$13.00 
+Order ID:  11  StaffName:David Gatta                     Total:$37.00 
+Order ID:  12  StaffName:David Gatta                     Total:$7.50  
+-------------------------------------------------------
+Total sales:$193.4(12)  Canceled:$0.0(0)
